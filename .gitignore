@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.nexo_secret
+nexo.db
+nexo.db-shm
+nexo.db-wal
+uploads/
+backups/
+.pytest_cache/
